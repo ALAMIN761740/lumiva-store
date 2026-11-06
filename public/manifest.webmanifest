@@ -1,0 +1,9 @@
+﻿{
+  "name": "Lumiva",
+  "short_name": "Lumiva",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFF8FA",
+  "theme_color": "#C2185B",
+  "icons": [{ "src": "/favicon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}

@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /account
+Disallow: /checkout
+
+# Replace with your real domain after launch:
+# Sitemap: https://YOUR-DOMAIN.com/sitemap.xml
