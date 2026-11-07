@@ -95,15 +95,15 @@ export default function Home() {
             <div className="hero-glow" aria-hidden="true" />
             <div className="hero-frame">
               <img
-                className="hero-img"
-                src="/images/men.png"
-                alt="Lumiva male beauty model showcasing skincare products"
-                width="1122"
-                height="1402"
-                fetchpriority="high"
-                loading="eager"
-                decoding="async"
-              />
+  className="hero-img"
+  src="/images/men.png"
+  alt="Lumiva male beauty model showcasing skincare products"
+  width="1122"
+  height="1402"
+  fetchpriority="high"
+  loading="eager"
+  decoding="async"
+/>
             </div>
             {HERO_CHIPS.map((chip) => {
               const ChipIcon = chip.icon
