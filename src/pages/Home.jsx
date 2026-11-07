@@ -96,7 +96,7 @@ export default function Home() {
             <div className="hero-frame">
               <img
                 className="hero-img"
-                src="/hero.webp"
+                src="./../../public/images/Men’s Face Wash Promotional Portrait.png"
                 alt="Lumiva beauty model wearing a blue hijab and holding a lip gloss"
                 width="1122"
                 height="1402"
