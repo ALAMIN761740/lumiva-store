@@ -96,8 +96,8 @@ export default function Home() {
             <div className="hero-frame">
               <img
                 className="hero-img"
-                src="./../../public/images/men.png"
-                alt="Lumiva beauty model wearing a blue hijab and holding a lip gloss"
+                src="/images/men.png"
+                alt="Lumiva male beauty model showcasing skincare products"
                 width="1122"
                 height="1402"
                 fetchpriority="high"
